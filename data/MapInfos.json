@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Общага кв","order":2,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":1,"expanded":true,"name":"Общага кв","order":2,"parentId":3,"scrollX":884.5714285714286,"scrollY":471.4285714285714},
 {"id":2,"expanded":false,"name":"Общага холл","order":3,"parentId":1,"scrollX":884.5714285714286,"scrollY":471.4285714285714},
 {"id":3,"expanded":true,"name":"MAP003","order":1,"parentId":0,"scrollX":690.8571428571428,"scrollY":465.4285714285714},
 {"id":4,"expanded":true,"name":"Колледж","order":4,"parentId":3,"scrollX":995.9999999999999,"scrollY":892.2857142857142},
