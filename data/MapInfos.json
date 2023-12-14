@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Общага кв","order":2,"parentId":3,"scrollX":590,"scrollY":431.3333333333333},
-{"id":2,"expanded":false,"name":"Общага холл","order":3,"parentId":1,"scrollX":982,"scrollY":420.6666666666667},
+{"id":1,"expanded":true,"name":"Общага кв","order":2,"parentId":3,"scrollX":690,"scrollY":377.3333333333333},
+{"id":2,"expanded":false,"name":"Общага холл","order":3,"parentId":1,"scrollX":894,"scrollY":366.6666666666667},
 {"id":3,"expanded":true,"name":"MAP003","order":1,"parentId":0,"scrollX":590,"scrollY":431.3333333333333},
 {"id":4,"expanded":true,"name":"Колледж","order":4,"parentId":3,"scrollX":971.3333333333334,"scrollY":886},
 {"id":5,"expanded":true,"name":"Левое крыло4","order":16,"parentId":7,"scrollX":982,"scrollY":420.6666666666667},
